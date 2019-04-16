@@ -64,8 +64,7 @@ try:
 
     # Display Image
     print("Body keypoints: \n" + str(datum.poseKeypoints))
-    cv2.imshow("OpenPose 1.4.0 - Tutorial Python API", datum.cvOutputData)
-    cv2.waitKey(0)
+    cv2.imwrite("../../../examples/rz.jpg", datum.cvOutputData)
 except Exception as e:
     # print(e)
     sys.exit(-1)
