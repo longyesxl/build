@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/kaggle/openpose/build/CMakeFiles/openpose_lib"
+		},
+		{
+			"file" : "/kaggle/openpose/build/CMakeFiles/openpose_lib.rule"
+		},
+		{
+			"file" : "/kaggle/openpose/build/CMakeFiles/openpose_lib-complete.rule"
+		},
+		{
+			"file" : "/kaggle/openpose/build/caffe/src/openpose_lib-stamp/openpose_lib-install.rule"
+		},
+		{
+			"file" : "/kaggle/openpose/build/caffe/src/openpose_lib-stamp/openpose_lib-mkdir.rule"
+		},
+		{
+			"file" : "/kaggle/openpose/build/caffe/src/openpose_lib-stamp/openpose_lib-download.rule"
+		},
+		{
+			"file" : "/kaggle/openpose/build/caffe/src/openpose_lib-stamp/openpose_lib-update.rule"
+		},
+		{
+			"file" : "/kaggle/openpose/build/caffe/src/openpose_lib-stamp/openpose_lib-patch.rule"
+		},
+		{
+			"file" : "/kaggle/openpose/build/caffe/src/openpose_lib-stamp/openpose_lib-configure.rule"
+		},
+		{
+			"file" : "/kaggle/openpose/build/caffe/src/openpose_lib-stamp/openpose_lib-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"openpose_lib"
+		],
+		"name" : "openpose_lib"
+	}
+}
